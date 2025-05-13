@@ -3,3 +3,6 @@
 ``` javascript
 var coolVariable = 3;
 ```
+- [ ] Add more code
+- [x] Add photo
+- [ ] dog
